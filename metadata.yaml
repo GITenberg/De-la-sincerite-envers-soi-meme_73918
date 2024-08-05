@@ -1,0 +1,36 @@
+_repo: De-la-sincerite-envers-soi-meme_73918
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rivière, Jacques
+    alias: Riviere, Jacques
+    birthdate: 1886
+    deathdate: 1925
+    gutenberg_agent_id: '46902'
+    url: http://www.gutenberg.org/2009/agents/46902
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
+    - https://fr.wikipedia.org/wiki/Jacques_Rivi%C3%A8re
+description: ''
+gutenberg_issued: '2024-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73918'
+  lccn: '26011614'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.395766
+pgterms:marc905: 20240313232755rivire
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bGallimard, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sincerity'
+- !lcc 'PQ'
+- GITenberg
+title: De la sincérité envers soi-même
+url: http://www.gutenberg.org/ebooks/73918
